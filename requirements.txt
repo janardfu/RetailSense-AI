@@ -1,0 +1,49 @@
+# Core Dependencies
+streamlit>=1.24.0
+pandas>=1.5.3
+numpy>=1.23.5
+python-dotenv>=1.0.0
+
+# Database
+pymongo>=4.3.3
+
+# Visualization
+plotly>=5.13.1
+
+# Machine Learning & AI
+scikit-learn>=1.2.2
+statsmodels>=0.14.0
+tensorflow>=2.12.0
+
+# Data Processing
+openpyxl==3.1.2
+xlsxwriter>=3.1.0
+
+# API & Web
+fastapi>=0.95.0
+uvicorn>=0.21.1
+pydantic==2.6.1
+python-multipart>=0.0.6
+requests==2.31.0
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-jwt==4.0.0
+
+# Testing & Automation
+selenium==4.17.2
+webdriver-manager==4.0.1
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2021.3
+
+# Optional Dependencies
+# Uncomment if needed for specific features
+# torch==2.2.0
+# transformers==4.37.2
+
+# Added from the code block
+joblib>=1.2.0
+python-pptx>=0.6.21 
